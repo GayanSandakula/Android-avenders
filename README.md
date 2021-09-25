@@ -1,6 +1,6 @@
 # Android-avenders
 Mad Project repository
-# Project Name - Online Tourism Management System
+# Project Name - Qurantine care Health Management Aplication
 # Batch - Metro-Weekday
 ### Group Leader - IT20037192 - Mr. De Silva K G S    
 ### Member 2 - IT20049140 - Mr. Fernando P T N    
